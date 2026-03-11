@@ -4,7 +4,7 @@
 # DB : SqlServer
 
 # Table : Trainer 
-#Column 
+# Column 
 Id - int 
 Name - String 
 Mobile - String 
