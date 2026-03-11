@@ -1,9 +1,13 @@
 # React-axisos-crud
-Backend - Asp.net core api 
-Frontend : React 
-DB : SqlServer
+# Backend - Asp.net core api 
+# Frontend : React 
+# DB : SqlServer
 
-Table : Trainer 
-Column 
+# Table : Trainer 
+#Column 
 Id - int 
+Name - String 
+Mobile - String 
+Email - String 
+Technologies : String 
 
